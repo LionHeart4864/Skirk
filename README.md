@@ -370,7 +370,10 @@ tuning.
 
 # SkirkUsingWorkflow
 
-This part shows how to set up and run a Skirk workflow using GitHub Actions and GitHub Codespaces.
+This repository shows how to set up and run a Skirk workflow using GitHub Actions and GitHub Codespaces.
+
+<img width="1110" height="570" alt="image" src="https://github.com/user-attachments/assets/7cb3d1a5-c798-43ae-b542-e94b25d4aea7" />
+
 
 ## Requirements
 
@@ -387,7 +390,7 @@ This part shows how to set up and run a Skirk workflow using GitHub Actions and 
 
 3. Follow the setup instructions from the following project:
 
-   urlSkirk Repository[https://github.com/ShahabSL/Skirk](https://github.com/ShahabSL/Skirk)
+  Skirk Repository: [https://github.com/ShahabSL/Skirk](https://github.com/ShahabSL/Skirk)
 
 4. After the setup is completed, download the `skirk-kit` folder.
 
@@ -457,7 +460,7 @@ This part shows how to set up and run a Skirk workflow using GitHub Actions and 
 
 1. Download and install the Skirk client application from:
 
-   urlSkirk Releases[https://github.com/ShahabSL/Skirk/releases](https://github.com/ShahabSL/Skirk/releases)
+   Skirk Releases: [https://github.com/ShahabSL/Skirk/releases](https://github.com/ShahabSL/Skirk/releases)
 
 2. Copy the generated Skirk client configuration into the application.
 
@@ -466,7 +469,7 @@ This part shows how to set up and run a Skirk workflow using GitHub Actions and 
 
 ## Credits
 
-Special thanks to entity["people","ShahabSL","Creator of the Skirk project"] for creating the Skirk project.
+Special thanks to ["people","ShahabSL","Creator of the Skirk project"] for creating the Skirk project.
 
 
 ## Documentation
